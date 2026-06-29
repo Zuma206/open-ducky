@@ -2,6 +2,9 @@
 odvm
 odc
 
+# Language Server Config
+compile_commands.json
+
 # Prerequisites
 *.d
 
